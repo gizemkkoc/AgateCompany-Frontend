@@ -1,6 +1,6 @@
-# AdAgency
+# AgateCompany
 
-AdAgency is a comprehensive advertising agency management system built with Go and React. It provides a complete solution for managing advertising campaigns, clients, staff, and advertisements.
+AgateCompany is an all-in-one advertising agency management system developed using Go and React. It offers a complete platform to efficiently oversee advertising campaigns, clients, staff, and advertisements.
 
 ## Features
 

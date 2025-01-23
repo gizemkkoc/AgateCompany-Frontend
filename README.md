@@ -51,31 +51,6 @@ AgateCompany is an all-in-one advertising agency management system developed usi
 - PostgreSQL 12 or higher
 - Git
 
-Go backend project is coming soon! 🚀
-
-## Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/barisaydogdu/AdAgency.git
-cd AdAgency
-
-# Create a PostgreSQL database and update the .env file with your database credentials
-cp .env.example .env
-
-go mod download
-
-cd frontend
-npm install
-
-DATABASE_URL=postgresql://username:password@localhost:5432/adagency
-PORT=8000
-
-go run main.go
-
-cd frontend
-npm start
-
 ### Clients
 * `GET /clients` - Get all clients
 * `GET /clients/:id` - Get specific client
